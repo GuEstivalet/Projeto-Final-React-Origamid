@@ -9,6 +9,10 @@ const types = {
     regex: /^(?=.*\d)(?=.*[a-z])(?=.*[A-Z])(?=.*[$*&@#])[A-Za-z\d$*&@#]{8,}$/,
     message: 'Deve conter no mínimo 8 caracteres, 1 letra maiúscula, 1 número e 1 caractere especial.',
   },
+  number: {
+    regex: /^\d+$/,
+    message: 'Utilize números apenas.'
+  }
 };
 
 const useForm = (type) => {

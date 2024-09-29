@@ -1,22 +1,38 @@
 
 Dogs - Rede Social para Cachorros 🐾
+
 Bem-vindo ao Dogs, uma rede social desenvolvida especialmente para nossos amigos de quatro patas! Este projeto foi criado com o objetivo de aprender e praticar o desenvolvimento de webapps utilizando React.
 
 📚 Sobre o Projeto
+
 O Dogs é uma rede social simples e intuitiva onde os cachorros podem compartilhar suas fotos e interagir com outros cãezinhos. O foco deste projeto é aplicar os conceitos aprendidos durante o curso de React da Origamid, com ênfase em:
 
 Gerenciamento de estado.
+
 Consumo de APIs.
+
 Manipulação de formulários.
+
 Validação de dados.
+
 Navegação entre rotas.
+
 Otimização de performance e boas práticas em React.
-🔧 Tecnologias Utilizadas
+
+
+🔧 Tecnologias Utilizadas:
+
 React: Biblioteca principal para a construção da interface do usuário.
+
 React Router: Para navegação entre as diferentes páginas.
+
 Context API: Gerenciamento de estado global.
+
 Styled Components: Para estilização dos componentes.
+
 Fetch API: Para comunicação com o backend e obtenção de dados.
+
+
 🚀 Funcionalidades
 Cadastro de novos usuários (perfis de cachorros).
 Postagem de fotos com legendas.
@@ -30,6 +46,7 @@ Clone o repositório:
 bash
 Copiar código
 git clone https://github.com/GuEstivalet/Projeto-Final-React-Origamid
+
 Acesse o diretório do projeto:
 
 bash

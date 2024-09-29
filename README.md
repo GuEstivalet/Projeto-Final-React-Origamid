@@ -29,12 +29,12 @@ Clone o repositório:
 
 bash
 Copiar código
-git clone https://github.com/seu-usuario/dogs-rede-social.git
+git clone https://github.com/GuEstivalet/Projeto-Final-React-Origamid
 Acesse o diretório do projeto:
 
 bash
 Copiar código
-cd dogs-rede-social
+cd projeto-final-react
 Instale as dependências:
 
 bash
